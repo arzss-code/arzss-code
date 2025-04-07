@@ -10,13 +10,13 @@
   <img src="https://komarev.com/ghpvc/?username=arzss-code&style=flat-square&color=brightgreen" alt="visitor counter"/>
 </p>
 
----
+
 
 ## About
 
-Hi! I’m Arya — a student of Computer Engineering Technology who loves combining **UI/UX design** with **web & mobile development**.
+Hi! I’m **Arya** — a student of Computer Engineering Technology who loves combining **UI/UX design** with **web & mobile development**.
 
----
+
 
 ## GitHub Stats
 
@@ -25,14 +25,13 @@ Hi! I’m Arya — a student of Computer Engineering Technology who loves combin
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arzss-code&theme=tokyonight" width="48%" />
 </p>
 
----
+
 
 ## Find Me
 
 - 📸 [Instagram](https://instagram.com/atsiila.arya14)  
 - 💼 [LinkedIn](https://linkedin.com/in/atsiila-arya-nabiih)
-
----
+  
 
 <p align="center">
   <i>"Design is how it works." – Steve Jobs</i>
