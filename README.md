@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60"/>
-</p>
-
 <h1 align="center">Hi there, I'm Atsiila Arya Nabiih 👋</h1>
 
 <p align="center">
@@ -17,7 +13,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About
 
 Hi! I’m Arya — a student of Computer Engineering Technology who loves combining **UI/UX design** with **web & mobile development**.
 
@@ -31,7 +27,7 @@ Hi! I’m Arya — a student of Computer Engineering Technology who loves combin
 
 --- -->
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arzss-code&show_icons=true&theme=tokyonight" />
@@ -40,7 +36,7 @@ Hi! I’m Arya — a student of Computer Engineering Technology who loves combin
 
 ---
 
-## 📫 Find Me
+## Find Me
 
 - 📸 [Instagram](https://instagram.com/atsiila.arya14)  
 - 💼 [LinkedIn](https://linkedin.com/in/atsiila-arya-nabiih)
