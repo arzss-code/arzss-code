@@ -11,17 +11,15 @@
   <a href="https://www.instagram.com/atsiila.arya14/">
     <img src="https://img.shields.io/badge/Instagram-Follow-DD2A7B?style=flat-square&logo=instagram&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=arzss-code&style=flat-square&color=brightgreen" alt="visitor counter"/>
 </p>
+
 
 ---
 
 ## 🧑‍💻 About Me
 
-Hi! I’m Atsiila — a student of Computer Engineering Technology who loves combining **UI/UX design** with **web & mobile development**.
+Hi! I’m Arya — a student of Computer Engineering Technology who loves combining **UI/UX design** with **web & mobile development**.
 
 <!-- ---
 
