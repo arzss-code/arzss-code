@@ -7,7 +7,7 @@
   <a href="https://www.instagram.com/atsiila.arya14/">
     <img src="https://img.shields.io/badge/Instagram-Follow-DD2A7B?style=flat-square&logo=instagram&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=arzss-code&style=flat-square&color=brightgreen" alt="visitor counter"/>
+  <img src="https://komarev.com/ghpvc/?username=arzss-code&label=Profile%20views&color=006D31&style=flat" alt="visitor counter"/>
 </p>
 
 
