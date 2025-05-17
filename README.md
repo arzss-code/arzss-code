@@ -2,10 +2,10 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/atsiila-arya-nabiih">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
   </a>
   <a href="https://www.instagram.com/atsiila.arya14/">
-    <img src="https://img.shields.io/badge/Instagram-Follow-DD2A7B?style=flat-square&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-Follow-DD2A7B?style=flat&logo=instagram&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=arzss-code&label=Profile%20views&color=006D31&style=flat" alt="visitor counter"/>
 </p>
