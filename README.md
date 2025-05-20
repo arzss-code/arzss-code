@@ -17,9 +17,19 @@ Hi! I’m **Arya** — a student of Computer Engineering Technology who loves co
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arzss-code&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arzss-code&theme=tokyonight" width="51%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=arzss-code&show_icons=true&theme=tokyonight" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=arzss-code&show_icons=true&theme=default" />
+    <img src="https://github-readme-stats.vercel.app/api?username=arzss-code&show_icons=true&theme=default" width="48%" />
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=arzss-code&theme=tokyonight" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=arzss-code&theme=default" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=arzss-code&theme=default" width="51%" />
+  </picture>
 </p>
+
 
 ## Find Me
 
