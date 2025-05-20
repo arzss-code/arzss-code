@@ -1,13 +1,7 @@
 <h1 align="center">Hi there, I'm Atsiila Arya Nabiih 👋</h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/atsiila-arya-nabiih">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
-  </a>
-  <a href="https://www.instagram.com/atsiila.arya14/">
-    <img src="https://img.shields.io/badge/Instagram-Follow-DD2A7B?style=flat&logo=instagram&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=arzss-code&label=Profile%20views&color=006D31&style=flat" alt="visitor counter"/>
+  <img src="https://komarev.com/ghpvc/?username=arzss-code&label=Profile%20views&color=009D21&style=flat" alt="visitor counter" height=30/>
 </p>
 
 ## About
@@ -29,7 +23,6 @@ Hi! I’m **Arya** — a student of Computer Engineering Technology who loves co
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=arzss-code&theme=default" width="51%" />
   </picture>
 </p>
-
 
 ## Find Me
 
