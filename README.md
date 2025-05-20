@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Atsiila Arya Nabiih 👋</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arzss-code&label=Profile%20views&color=009D21&style=flat" alt="visitor counter" height=30/>
+  <img src="https://komarev.com/ghpvc/?username=arzss-code&label=Profile%20views&color=009D21&style=flat" alt="visitor counter" height=28/>
 </p>
 
 ## About
