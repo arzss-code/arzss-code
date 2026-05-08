@@ -8,19 +8,25 @@
 
 Hi! I’m **Arya** — a student of Computer Engineering Technology who loves combining **UI/UX design** with **web & mobile development**.
 
+## Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,html,css,tailwind,js,react,nextjs,python,laravel,flutter,dart,git,github,vscode&perline=7" alt="skills" />
+</p>
+
 ## GitHub Stats
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=arzss-code&show_icons=true&theme=tokyonight" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=arzss-code&show_icons=true&theme=default" />
-    <img src="https://github-readme-stats.vercel.app/api?username=arzss-code&show_icons=true&theme=default" width="48%" />
-  </picture>
+  <img
+    src="https://github-stats-alpha.vercel.app/api?username=arzss-code&cc=000&tc=fff&ic=fff&bc=fff"
+    alt="GitHub Stats"
+    width="48%"
+  />
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=arzss-code&theme=tokyonight" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=arzss-code&theme=default" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=arzss-code&theme=default" width="51%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=arzss-code&theme=default" width="48%" />
   </picture>
 </p>
 
