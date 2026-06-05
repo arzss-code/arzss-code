@@ -6,7 +6,7 @@
 
 ## About
 
-Hi! I’m **Arya** — a student of Computer Engineering Technology who loves combining **UI/UX design** with **web & mobile development**.
+Hi! I’m **Arya**, a Computer Engineering Technology student who enjoys building digital products by combining **clean UI/UX design** with **modern web and mobile development**.
 
 ## Skills
 
